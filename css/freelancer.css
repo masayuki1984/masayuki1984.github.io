@@ -472,3 +472,15 @@ ul.tech {
 .favorite img {
     margin: 0px 2px;
 }
+
+.dt-adjust {
+    float: left;
+}
+
+.dd-adjust-right {
+    text-align: right;
+}
+
+.dd-adjust-left {
+    text-align: left;
+}
